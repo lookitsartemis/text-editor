@@ -1,3 +1,3 @@
 # Text Editor
 
-A text editor written in Python.
+A simple text editor written in Python!
